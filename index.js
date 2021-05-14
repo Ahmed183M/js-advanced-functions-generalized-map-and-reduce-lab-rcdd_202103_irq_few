@@ -1,3 +1,3 @@
 // Add your functions here
 
-map(sourceArray, function(a){ return -1 * a });
+const newArray = map(sourceArray, function(a){ return -1 * a });
